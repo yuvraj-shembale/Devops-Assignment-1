@@ -1,0 +1,4 @@
+Git 3-Tree Architecture Notes:
+1. Working Directory - actual files on disk
+2. Staging Area (Index) - prepared changes for next commit
+3. Repository (.git) - permanent snapshot history

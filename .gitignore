@@ -1,0 +1,6 @@
+# Ignored files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
